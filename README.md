@@ -13,3 +13,4 @@ U40451 == "Resultat vid avslut i kommunens arbetsmarknadsverksamhet, deltagare s
 N40002 == "Intäkter arbetsmarknadsåtgärder, kr/inv"  
 N40008 == "Kostnad arbetsmarknadsåtgärder, kr/inv"  
 U40014 == "Kostnad köp av externa tjänster kommunala arbetsmarknadsverksamheten, kr"   
+U40800 == "Deltagare i kommunala arbetsmarknadsåtgärder, antal"  
